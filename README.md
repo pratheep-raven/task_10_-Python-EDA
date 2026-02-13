@@ -57,8 +57,6 @@ Perform Exploratory Data Analysis (EDA) and detect outliers using the IQR method
 ### Outlier Flag
 ![Flag](08_outlier_flag.png)
 
-### Correlation Matrix
-![Correlation](10_correlation_matrix.png)
 
 ## 📁 Files Included
 - task10_eda.ipynb
